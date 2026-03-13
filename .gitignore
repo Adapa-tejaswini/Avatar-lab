@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+av_fenv/
+backend/av_fenv/
+
+# Python env files
+.env
+# AI model checkpoints
+backend/flask1/files/checkpoints/
+
+# generated outputs
+*.mp4
+*.wav

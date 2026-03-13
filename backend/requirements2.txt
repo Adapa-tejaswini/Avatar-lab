@@ -1,0 +1,6 @@
+flask
+flask-cors
+Psycopg2
+sqlalchemy
+flask-sqlalchemy
+bcrypt==4.0.1
