@@ -45,4 +45,5 @@ Generate a realistic talking avatar video.
 ---
 
 ## 📂 Project Structure
-
+   --frontend
+   --backend
