@@ -1,5 +1,4 @@
 
-=======
 # 🎭 Avatar Lab
 A full-stack AI application that generates talking avatars from images and text.
 
