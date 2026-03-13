@@ -1,6 +1,4 @@
 
-
-The system integrates text-to-speech models with lip synchronization AI to produce high-quality animated avatars.
 =======
 # 🎭 Avatar Lab
 A full-stack AI application that generates talking avatars from images and text.
